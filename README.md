@@ -1,4 +1,4 @@
-### **Beleza na Ponta dos Dedos: Um Guia Rápido para a sua Aplicação**
+### **Beleza na Ponta dos Dedos - **Alura&GoogleGemini**
 
 **O que faz essa aplicação?**
 
@@ -33,15 +33,8 @@ Imagina um salão de beleza digital! Essa aplicação te ajuda a encontrar o pro
 
 Quer personalizar a aplicação? Abra o arquivo `dados.js` e adicione novos procedimentos! É super fácil.
 
-**Observações:**
-
-* **Banco de dados:** No lugar de um arquivo `dados.js`, você pode usar um banco de dados real para armazenar os dados dos procedimentos.
-* **Melhorias:** A aplicação pode ser melhorada com filtros mais avançados, imagens dos procedimentos, e até mesmo um sistema de agendamento online.
-
 **Vamos deixar a sua aplicação de beleza ainda mais incrível!** 
 
 **#belezadigital #programação #JavaScript #HTML #CSS #salãodebeleza**
 
 ****
-
-**Observação:** Adapte este README.md de acordo com as especificidades do seu projeto e o nível de detalhamento que você deseja. Você pode adicionar mais seções, como "Como contribuir" ou "Problemas conhecidos".
